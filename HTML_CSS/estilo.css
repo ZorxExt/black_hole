@@ -1,0 +1,9 @@
+.titulo {
+    color:red;
+    border-color: blue;
+    background-color: salmon;
+    display: block;
+    width: 500px;
+    height: 200px;
+    text-align:center
+}
